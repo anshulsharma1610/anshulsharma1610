@@ -23,8 +23,6 @@
   </tr>
 </table>
 
----
-
 ## Languages
 
 <table>
@@ -40,8 +38,6 @@
   </tr>
 </table>
 
----
-
 ## Databases
 
 <table>
@@ -56,9 +52,7 @@
   </tr>
 </table>
 
----
-
-## Tools
+## Cloud
 
 <table>
   <tr>
@@ -69,9 +63,6 @@
     <td><img src="https://img.shields.io/badge/-Shell%20Script-4EAA25?logo=gnu-bash&logoColor=white&style=flat" alt="Shell Script"></td>
     <td><img src="https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=flat" alt="Terraform"></td>
     <td><img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" alt="Linux"></td>
-    <td><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git"></td>
-    <td><img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat" alt="NPM"></td>
-    <td><img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat" alt="Jira"></td>
   </tr>
 </table>
 
