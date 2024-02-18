@@ -60,6 +60,7 @@
     <td><img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" alt="Linux"></td>
   </tr>
 </table>
+
 ---
 
 ## GitHub Stats
