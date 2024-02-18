@@ -63,8 +63,9 @@
 
 ---
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshulsharma1610&show_icons=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulsharma1610&layout=compact) |
+| ## GitHub Stats | ## Most Used Languages |
 | --- | --- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshulsharma1610&show_icons=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulsharma1610&layout=compact) |
 
 ---
 
