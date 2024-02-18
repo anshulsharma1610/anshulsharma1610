@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Anshul Sharma
 
-- 🌐 Interested in Web Development, Full Stack Development, and Web3.
+- 🌐 Interested in Full Stack Development, Mobile/Web development and Web3.
 - 🎓 Currently pursuing a Master's in Information Systems at Northeastern University.
 - ✉️ Reach me at [anshulsharma1610@gmail.com](mailto:anshulsharma1610@gmail.com)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/anshul1610/)
+- 🔗 Portfolio: [Anshul Sharma](https://www.anshulsharma.me/)
+
 
 ---
 ### Web Technologies
