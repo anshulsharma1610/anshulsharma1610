@@ -5,9 +5,7 @@
 - ✉️ Reach me at [anshulsharma1610@gmail.com](mailto:anshulsharma1610@gmail.com)
 
 ---
-
-## Web Technologies
-
+### Web Technologies
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5"></td>
@@ -22,9 +20,7 @@
     <td><img src="https://img.shields.io/badge/-REST-61DAFB?style=flat" alt="REST"></td>
   </tr>
 </table>
-
-## Languages
-
+### Languages
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python"></td>
@@ -37,9 +33,7 @@
     <td><img src="https://img.shields.io/badge/-NoSQL-4DB33D?logo=mongodb&logoColor=white&style=flat" alt="NoSQL"></td>
   </tr>
 </table>
-
-## Databases
-
+### Databases
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL"></td>
@@ -51,9 +45,7 @@
     <td><img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat" alt="SQL Server"></td>
   </tr>
 </table>
-
-## Cloud
-
+### Cloud
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat" alt="AWS"></td>
@@ -65,7 +57,6 @@
     <td><img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" alt="Linux"></td>
   </tr>
 </table>
-
 ---
 
 ## GitHub Stats
