@@ -1,15 +1,32 @@
-- 👋 Hi, I’m Anshul Sharma
-- 👀 I’m interested in Web, Full Stack Development, Web3
-- 🌱 I’m currently learning Masters in Information System @Northeastern University
-- 📫 You can reach me out at anshulsharma1610@gmail.com
+# 👋 Hi, I'm Anshul Sharma
 
-- Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/anshulsharma1610/count.svg)
+- 🌐 Interested in Web Development, Full Stack Development, and Web3.
+- 🎓 Currently pursuing a Master's in Information Systems at Northeastern University.
+- ✉️ Reach me at [anshulsharma1610@gmail.com](mailto:anshulsharma1610@gmail.com)
 
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshulsharma1610&show_icons=true&theme=radical)
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshulsharma1610)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulsharma1610&layout=compact)
+## GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshulsharma1610&show_icons=true&theme=radical)
+
+---
+
+## GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshulsharma1610)
+
+---
+
+## Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulsharma1610&layout=compact)
+
+---
+
+## Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/anshulsharma1610/count.svg)
 
 <!---
 anshulsharma1610/anshulsharma1610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
