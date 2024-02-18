@@ -63,16 +63,9 @@
 
 ---
 
-| ## GitHub Stats | ## Most Used Languages |
+| GitHub Stats | Most Used Languages |
 | --- | --- |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshulsharma1610&show_icons=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulsharma1610&layout=compact) |
-
----
-
-## Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/anshulsharma1610/count.svg)
-
 
 ---
 
