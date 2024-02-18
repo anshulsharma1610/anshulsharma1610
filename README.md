@@ -70,9 +70,15 @@
 | --- | --- |
 | ![GitHub Stats](https://github-stats-five-ashen.vercel.app/api?username=anshulsharma1610&show_icons=true&include_all_commits=true) | ![Most Used Languages](https://github-stats-five-ashen.vercel.app/api/top-langs/?username=anshulsharma1610&layout=compact) |
 
+| Visitor Count |
+| --- |
+| ![Visitor Count](https://profile-counter.glitch.me/anshulsharma1610/count.svg) |
+
+<!---
 | GitHub Streak | Visitor Count |
 | --- | --- |
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshulsharma1610) | ![Visitor Count](https://profile-counter.glitch.me/anshulsharma1610/count.svg) |
+--->
 
 ---
 
