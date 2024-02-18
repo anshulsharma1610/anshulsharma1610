@@ -67,17 +67,11 @@
 | --- | --- |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshulsharma1610&show_icons=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulsharma1610&layout=compact) |
 
----
-
-## GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshulsharma1610)
+| GitHub Streak | Visitor Count |
+| --- | --- |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshulsharma1610) | ![Visitor Count](https://profile-counter.glitch.me/anshulsharma1610/count.svg) |
 
 ---
-
-## Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/anshulsharma1610/count.svg)
 
 <!---
 anshulsharma1610/anshulsharma1610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
