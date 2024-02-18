@@ -20,6 +20,7 @@
     <td><img src="https://img.shields.io/badge/-REST-61DAFB?style=flat" alt="REST"></td>
   </tr>
 </table>
+
 ### Languages
 <table>
   <tr>
@@ -33,6 +34,7 @@
     <td><img src="https://img.shields.io/badge/-NoSQL-4DB33D?logo=mongodb&logoColor=white&style=flat" alt="NoSQL"></td>
   </tr>
 </table>
+
 ### Databases
 <table>
   <tr>
@@ -45,6 +47,7 @@
     <td><img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat" alt="SQL Server"></td>
   </tr>
 </table>
+
 ### Cloud
 <table>
   <tr>
