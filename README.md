@@ -63,16 +63,15 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 20px;">
-    ## GitHub Stats
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshulsharma1610&show_icons=true&theme=radical)
-  </div>
-  <div style="flex: 1;">
-    ## Most Used Languages
-    ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulsharma1610&layout=compact)
-  </div>
-</div>
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshulsharma1610&show_icons=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulsharma1610&layout=compact) |
+| --- | --- |
+
+---
+
+## Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/anshulsharma1610/count.svg)
+
 
 ---
 
