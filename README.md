@@ -67,17 +67,15 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshulsharma1610&show_icons=true&theme=radical)
 
+## Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulsharma1610&layout=compact)
+
 ---
 
 ## GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshulsharma1610)
-
----
-
-## Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulsharma1610&layout=compact)
 
 ---
 
