@@ -4,7 +4,7 @@
 - 🎓 Currently pursuing a Master's in Information Systems at Northeastern University.
 - ✉️ Reach me at [anshulsharma1610@gmail.com](mailto:anshulsharma1610@gmail.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/anshul1610/)
-- 🔗 Portfolio: [Anshul Sharma](https://www.anshulsharma.me/)
+- 🔗 Portfolio: [Anshul Sharma](https://www.anshulsharma.live/)
 
 
 ---
